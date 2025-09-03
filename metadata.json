@@ -1,0 +1,7 @@
+{
+  "name": "Atelier - Fashion Designer CRM",
+  "description": "A client management system for fashion designers to manage clients, appointments, ideas, and invoices. Includes a client-facing portal for booking appointments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
